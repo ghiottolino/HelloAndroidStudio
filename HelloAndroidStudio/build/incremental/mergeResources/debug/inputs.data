@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377522482000 370 bc147412eefcc131f36d2ad11b248d7ecd34eb96 /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values-sw600dp/refs.xml
+1377522482000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/drawable-mdpi/ic_launcher.png
+1377522482000 469 3987185c6b6b874ffde75ce241e38254b9b965c2 /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/layout/activity_item_list.xml
+1377522482000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values/styles.xml
+1377522482000 381 b129b276e01126de5b3b753572ac67cbfc19454c /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values-v14/styles.xml
+1377522482000 1384 29d084f58186498d3dda13f9fbde299371d9ab56 /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/layout/activity_item_twopane.xml
+1377522482000 325 024b7ad9aa15e4a06129dbe129e878492c258413 /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/layout/activity_item_detail.xml
+1377522482000 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/drawable-xxhdpi/ic_launcher.png
+1377522482000 370 bc147412eefcc131f36d2ad11b248d7ecd34eb96 /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values-large/refs.xml
+1377522482000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/drawable-hdpi/ic_launcher.png
+1377522482000 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/drawable-xhdpi/ic_launcher.png
+1377522482000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values-v11/styles.xml
+1377522482000 180 2138d844d916958d485072b8a628a06d74759c76 /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values/strings.xml
+1377522482000 387 bc7bfb0810aacf427b80cf3741d685ca3aa49474 /home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/layout/fragment_item_detail.xml
