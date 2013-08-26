@@ -20,29 +20,29 @@ public final class R {
     }
     public static final class layout {
         public static final int activity_item_detail=0x7f030000;
-        /**  From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values-large/refs.xml 
- From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values-sw600dp/refs.xml 
+        /**  From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudio/HelloAndroidStudio/src/main/res/values-large/refs.xml 
+ From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudio/HelloAndroidStudio/src/main/res/values-sw600dp/refs.xml 
          */
         public static final int activity_item_list=0x7f030001;
         public static final int activity_item_twopane=0x7f030002;
         public static final int fragment_item_detail=0x7f030003;
     }
     public static final class string {
-        /**  From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values/strings.xml 
+        /**  From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudio/HelloAndroidStudio/src/main/res/values/strings.xml 
          */
         public static final int app_name=0x7f040000;
         public static final int title_item_detail=0x7f040001;
     }
     public static final class style {
-        /**  From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values/styles.xml 
+        /**  From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudio/HelloAndroidStudio/src/main/res/values/styles.xml 
 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
- From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values-v11/styles.xml 
+ From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudio/HelloAndroidStudio/src/main/res/values-v11/styles.xml 
  API 11 theme customizations can go here. 
- From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/src/main/res/values-v14/styles.xml 
+ From: file:/home/ntesser/AndroidStudioProjects/HelloAndroidStudio/HelloAndroidStudio/src/main/res/values-v14/styles.xml 
  API 14 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f050000;
